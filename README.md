@@ -61,10 +61,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 ## OUTPUT:
+
 SERVER:
+
 ![image](https://github.com/user-attachments/assets/20845b14-6379-4618-b3fd-cd41b1ce7e21)
 
 CLIENT:
+
 ![image](https://github.com/user-attachments/assets/34768393-958b-45ef-9925-a2e0e13f2f73)
 
 
