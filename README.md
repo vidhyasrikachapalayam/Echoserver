@@ -1,4 +1,7 @@
-# Echoserver
+# NAME:VIDHYASRI
+# REG NO:212222230170
+
+# EXNO1 Echoserver
 Echo server and client using python socket
 
 # AIM:
